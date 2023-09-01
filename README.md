@@ -1,6 +1,8 @@
 # fanmmingfei
 <p align="center"> 
- <img src="https://profile-counter.glitch.me/fanmingfei/count.svg"/>
+ <a href="#">
+  <img src="https://profile-counter.glitch.me/fanmingfei/count.svg"/>
+ </a>
 </p>
 
 <p align="center"> 
