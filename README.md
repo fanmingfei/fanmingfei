@@ -1,4 +1,4 @@
-# fanmmingfei
+# fanmingfei
 <p align="center"> 
  <a href="#">
   <img src="https://profile-counter.glitch.me/fanmingfei/count.svg"/>
